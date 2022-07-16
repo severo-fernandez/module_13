@@ -37,7 +37,8 @@ Using your knowledge of Pandas and scikit-learn’s `StandardScaler()`, preproce
 
 ## Evaluate the model loss and accuracy metrics for all 3 models
 
-![Below is a screen shot of the evaluation results](Optimizer Results.jpg)
+![Below is a screen shot of the evaluation results]![Optimizer Results](https://user-images.githubusercontent.com/98987171/179363499-e9a4d55b-1926-4e85-ab94-e479fc9539c9.jpg)
+
 
 # # Contributors
 
